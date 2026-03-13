@@ -1,0 +1,27 @@
+h2{
+    color: orange;
+}
+#animal{
+    height: 400px;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 15px;
+    display: inline-block;
+   
+    padding: 20px;
+    margin: 100px;
+}
+
+#imgcat{
+    height: 200px;
+    width: 200px;
+    border-radius: 15px;
+}
+#imgdog{
+    height: 200px;
+    width: 200px;
+    border-radius: 15px;
+}
+p{
+    text-align: left;
+}
